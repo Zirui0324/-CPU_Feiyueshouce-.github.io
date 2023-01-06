@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<zirui.z@columbia.edu>
+      href: mailto:<zirui.z@columbia.edu; wfan0320@connect.hku.hk>
     - icon: fa-github fa-lg
       href: http://github.com/Zirui0324/
     - icon: fa-brands fa-linkedin
