@@ -14,7 +14,6 @@ Hello大家好～感谢大家的经验分享！如果你登上了这个网站，
 
 以下内容中不排除存在排版问题，我们会逐步调整，大家关注文字内容的修正即可！
 
-### 总览
 <img src="image/cover.png" style="width:100%">
 <img src="image/instruction.png" style="width:100%">
 <img src="image/content.png" style="width:100%">
@@ -82,7 +81,7 @@ Hello大家好～感谢大家的经验分享！如果你登上了这个网站，
 <img src="image/YRQ-3.png" style="width:100%">
 <img src="image/YRQ-4.png" style="width:100%">
 
-### 2022Fall·姚锐
+### 2022Fall·姚锐Ray
 <img src="image/YR-1.png" style="width:100%">
 <img src="image/YR-2.png" style="width:100%">
 <img src="image/YR-3.png" style="width:100%">
