@@ -6,7 +6,6 @@ output:
     toc_float: true
     theme: yeti
 ---
-### Notes
 
 Hello大家好～感谢大家的经验分享！如果你登上了这个网站，那么说明你的经验分享已经被po上这个网站啦！希望大家可以在侧边栏中找到自己，帮助我们检查你的模块中是否有需要修改的内容，如有，请点击右上角的小邮箱图标，将问题发给我们～
 
@@ -16,92 +15,91 @@ Hello大家好～感谢大家的经验分享！如果你登上了这个网站，
 
 <img src="image/cover.png" style="width:100%">
 <img src="image/instruction.png" style="width:100%">
-<img src="image/content.png" style="width:100%">
 
-### 2020Fall·吴飞璇
-<img src="image/WFX-1.png" style="width:100%">
-<img src="image/WFX-2.png" style="width:100%">
-<img src="image/WFX-3.png" style="width:100%">
-<img src="image/WFX-4.png" style="width:100%">
+### 2020Fall·吴飞璇-UWM
+<img src="image/WFX-1.png" style="width:300%">
+<img src="image/WFX-2.png" style="width:300%">
+<img src="image/WFX-3.png" style="width:300%">
+<img src="image/WFX-4.png" style="width:300%">
 
-### 2021Fall·凌晨
-<img src="image/LC-1.png" style="width:100%">
-<img src="image/LC-2.png" style="width:100%">
-<img src="image/LC-3.png" style="width:100%">
-<img src="image/LC-4.png" style="width:100%">
-<img src="image/LC-5.png" style="width:100%">
-<img src="image/LC-6.png" style="width:100%">
+### 2021Fall·凌晨-UMN
+<img src="image/LC-1.png" style="width:300%">
+<img src="image/LC-2.png" style="width:300%">
+<img src="image/LC-3.png" style="width:300%">
+<img src="image/LC-4.png" style="width:300%">
+<img src="image/LC-5.png" style="width:300%">
+<img src="image/LC-6.png" style="width:300%">
 
-### 2021Fall·翁禾
-<img src="image/WH-1.png" style="width:100%">
-<img src="image/WH-2.png" style="width:100%">
+### 2021Fall·翁禾-QUB
+<img src="image/WH-1.png" style="width:300%">
+<img src="image/WH-2.png" style="width:300%">
 
-### 2022Fall·海旻Marina
-<img src="image/HM-1.png" style="width:100%">
-<img src="image/HM-2.png" style="width:100%">
-<img src="image/HM-3.png" style="width:100%">
-<img src="image/HM-4.png" style="width:100%">
-<img src="image/HM-5.png" style="width:100%">
+### 2022Fall·海旻Marina-OSU
+<img src="image/HM-1.png" style="width:300%">
+<img src="image/HM-2.png" style="width:300%">
+<img src="image/HM-3.png" style="width:300%">
+<img src="image/HM-4.png" style="width:300%">
+<img src="image/HM-5.png" style="width:300%">
 
-### 2022Fall·李涵
-<img src="image/LH-1.png" style="width:100%">
-<img src="image/LH-2.png" style="width:100%">
+### 2022Fall·李涵-KCL
+<img src="image/LH-1.png" style="width:300%">
+<img src="image/LH-2.png" style="width:300%">
 
-### 2022Fall·罗涵湄
-<img src="image/LHM-1.png" style="width:100%">
+### 2022Fall·罗涵湄-Monash
+<img src="image/LHM-1.png" style="width:300%">
 
-### 2022Fall·李俊妍
-<img src="image/LJY-1.png" style="width:100%">
-<img src="image/LJY-2.png" style="width:100%">
+### 2022Fall·李俊妍-Emory
+<img src="image/LJY-1.png" style="width:300%">
+<img src="image/LJY-2.png" style="width:300%">
 
-### 2022Fall·刘琪珩
-<img src="image/LQX-1.png" style="width:100%">
-<img src="image/LQX-2.png" style="width:100%">
+### 2022Fall·刘琪珩-UCL
+<img src="image/LQX-1.png" style="width:300%">
+<img src="image/LQX-2.png" style="width:300%">
 
-### 2022Fall·田玥
-<img src="image/TY-1.png" style="width:100%">
-<img src="image/TY-2.png" style="width:100%">
+### 2022Fall·田玥-KCL
+<img src="image/TY-1.png" style="width:300%">
+<img src="image/TY-2.png" style="width:300%">
 
-### 2022Fall·吴凡Harlod
-<img src="image/Harlod-1.png" style="width:100%">
-<img src="image/Harlod-2.png" style="width:100%">
-<img src="image/Harlod-3.png" style="width:100%">
-<img src="image/Harlod-4.png" style="width:100%">
-<img src="image/Harlod-5.png" style="width:100%">
-<img src="image/Harlod-6.png" style="width:100%">
-<img src="image/Harlod-7.png" style="width:100%">
+### 2022Fall·吴凡Harlod-HKU
+<img src="image/Harlod-1.png" style="width:300%">
+<img src="image/Harlod-2.png" style="width:300%">
+<img src="image/Harlod-3.png" style="width:300%">
+<img src="image/Harlod-4.png" style="width:300%">
+<img src="image/Harlod-5.png" style="width:300%">
+<img src="image/Harlod-6.png" style="width:300%">
+<img src="image/Harlod-7.png" style="width:300%">
 
-### 2022Fall·王潇楠
-<img src="image/WXN-1.png" style="width:100%">
-<img src="image/WXN-2.png" style="width:100%">
+### 2022Fall·王潇楠-NUS
+<img src="image/WXN-1.png" style="width:300%">
+<img src="image/WXN-2.png" style="width:300%">
 
-### 2022Fall·鄢瑞琪 
-<img src="image/YRQ-1.png" style="width:100%">
-<img src="image/YRQ-2.png" style="width:100%">
-<img src="image/YRQ-3.png" style="width:100%">
-<img src="image/YRQ-4.png" style="width:100%">
+### 2022Fall·鄢瑞琪-WUSTL
+<img src="image/YRQ-1.png" style="width:300%">
+<img src="image/YRQ-2.png" style="width:300%">
+<img src="image/YRQ-3.png" style="width:300%">
+<img src="image/YRQ-4.png" style="width:300%">
 
-### 2022Fall·姚锐Ray
-<img src="image/YR-1.png" style="width:100%">
-<img src="image/YR-2.png" style="width:100%">
-<img src="image/YR-3.png" style="width:100%">
+### 2022Fall·姚锐Ray-NUS
+<img src="image/YR-1.png" style="width:300%">
+<img src="image/YR-2.png" style="width:300%">
+<img src="image/YR-3.png" style="width:300%">
 
-### 2022Fall·岳天慈
-<img src="image/YTC-1.png" style="width:100%">
-<img src="image/YTC-2.png" style="width:100%">
-<img src="image/YTC-3.png" style="width:100%">
-<img src="image/YTC-4.png" style="width:100%">
-<img src="image/YTC-5.png" style="width:100%">
-<img src="image/YTC-6.png" style="width:100%">
-<img src="image/YTC-7.png" style="width:100%">
-<img src="image/YTC-8.png" style="width:100%">
-<img src="image/YTC-9.png" style="width:100%">
+### 2022Fall·岳天慈-TOHO
+<img src="image/YTC-1.png" style="width:300%">
+<img src="image/YTC-2.png" style="width:300%">
+<img src="image/YTC-3.png" style="width:300%">
+<img src="image/YTC-4.png" style="width:300%">
+<img src="image/YTC-5.png" style="width:300%">
+<img src="image/YTC-6.png" style="width:300%">
+<img src="image/YTC-7.png" style="width:300%">
+<img src="image/YTC-8.png" style="width:300%">
+<img src="image/YTC-9.png" style="width:300%">
 
 
-### 2022Fall·叶玄
-<img src="image/YX-1.png" style="width:100%">
-<img src="image/YX-2.png" style="width:100%">
-<img src="image/YX-3.png" style="width:100%">
-<img src="image/YX-4.png" style="width:100%">
-<img src="image/YX-5.png" style="width:100%">
-<img src="image/YX-6.png" style="width:100%">
+### 2022Fall·叶玄-Karolinska
+<img src="image/YX-1.png" style="width:300%">
+<img src="image/YX-2.png" style="width:300%">
+<img src="image/YX-3.png" style="width:300%">
+<img src="image/YX-4.png" style="width:300%">
+<img src="image/YX-5.png" style="width:300%">
+<img src="image/YX-6.png" style="width:300%">
