@@ -96,4 +96,8 @@ output:
 <img src="image/YTC-8.png" style="width:300%">
 <img src="image/YTC-9.png" style="width:300%">
 
+### 2022Fall·张子睿-Columbia
+<img src="image/ZZR-1.png" style="width:300%">
+<img src="image/ZZR-2.png" style="width:300%">
+
 <img src="image/last.png" style="width:300%">
